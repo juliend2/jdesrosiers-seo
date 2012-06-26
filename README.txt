@@ -4,11 +4,11 @@ Tags: seo
 Requires at least: 3.3.1
 Tested up to: 3.3.1
 
-Very simple WordPress plugin to manage titles and meta descriptions on a page by page basis.
+A very simple WordPress plugin to manage titles and meta descriptions on a page by page basis.
 
 == Description ==
 
-Very simple WordPress plugin to manage titles and descriptions on a post by
+A very simple WordPress plugin to manage titles and descriptions on a post by
 post (or page by page) basis.
 
 This project is hosted on https://github.com/juliend2/jdesrosiers-seo
